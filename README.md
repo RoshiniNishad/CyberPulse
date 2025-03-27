@@ -1,8 +1,8 @@
-# Cyber Incident Monitoring System
+# CyberPulse
 
 ## Project Overview
 
-The **Cyber Incident Monitoring System** is a comprehensive tool designed to provide real-time feeds of cyber incidents occurring in the cyber space within the Indian region. This tool aggregates data from various sources, including social media (e.g., Twitter), news websites, and other relevant feeds. It leverages machine learning to classify incidents and generates reports to help stakeholders understand the nature and frequency of cyber incidents in real-time. 
+The **CyberPulse** is a comprehensive tool designed to provide real-time feeds of cyber incidents occurring in the cyber space within the Indian region. This tool aggregates data from various sources, including social media (e.g., Twitter), news websites, and other relevant feeds. It leverages machine learning to classify incidents and generates reports to help stakeholders understand the nature and frequency of cyber incidents in real-time. 
 
 This project consists of a full-stack application with a backend that handles data collection, processing, and storage, as well as a frontend that presents data in an interactive and user-friendly interface.
 
